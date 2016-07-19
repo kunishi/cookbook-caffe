@@ -1,0 +1,11 @@
+name             'cookbook-caffe'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures cookbook-caffe'
+long_description 'Installs/Configures cookbook-caffe'
+version          '0.1.0'
+
+depends 'build-essential'
+depends 'git'
+depends 'poise-python'
